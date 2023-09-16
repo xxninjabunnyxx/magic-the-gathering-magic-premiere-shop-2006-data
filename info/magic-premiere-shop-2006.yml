@@ -1,0 +1,15 @@
+---
+object: set
+id: 7d536fe7-6170-42b4-bdb5-6a05b800a839
+code: pmps06
+name: Magic Premiere Shop 2006
+uri: https://api.scryfall.com/sets/7d536fe7-6170-42b4-bdb5-6a05b800a839
+scryfall_uri: https://scryfall.com/sets/pmps06
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmps06&unique=prints
+released_at: '2006-01-01'
+set_type: promo
+card_count: 5
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/pmtg2.svg?1694404800
